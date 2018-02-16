@@ -1,0 +1,14 @@
+{
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [],
+  "main": "server.js",
+  "name": "js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "engines": {
+    "node": "7.x"
+  },
+  "version": "1.0.0"
+}
