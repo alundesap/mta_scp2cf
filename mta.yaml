@@ -1,3 +1,12 @@
 ID: mta_scp2cf
 _schema-version: '2.0'
 version: 0.0.1
+
+modules:
+ - name: js
+   type: nodejs
+   path: js
+   provides:
+    - name: js_api
+      properties:
+         url: ${default-url}

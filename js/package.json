@@ -5,7 +5,7 @@
   "main": "server.js",
   "name": "js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "engines": {
     "node": "7.x"
