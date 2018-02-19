@@ -10,7 +10,7 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "7.x"
+    "node": "6.x"
   },
   "version": "1.0.0"
 }
