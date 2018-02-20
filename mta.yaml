@@ -3,13 +3,10 @@ _schema-version: '2.0'
 version: 0.0.1
 
 modules:
- - name: js
+ - name: monme
    type: nodejs
-   path: js
+   path: monme
    provides:
-    - name: js_api
+    - name: monme_api
       properties:
          url: ${default-url}
-
- 
-
