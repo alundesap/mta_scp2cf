@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>mta_scp2cf_proj</name>
+	<comment>Multi-Target Application with updating content in a deployed NodeJS module in SAP Cloud Platform Cloud Foundry.</comment>
+        <projects>
+        </projects>
+        <buildSpec>
+        </buildSpec>
+        <natures>
+        </natures>
+</projectDescription>
