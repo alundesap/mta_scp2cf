@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule ^alice.html$ bob.html
+RewriteRule ^ex/([^/\.]+)/?$ http://example.com/ [R,L]
+RewriteRule ^/?concile/(.*)$ https://conciletime.conciletime.com/catalog/$1 [L]
